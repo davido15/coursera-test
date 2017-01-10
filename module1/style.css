@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+.myitem1{
+	text-align: center;
+  padding-right: 10px;
+  float: right;
+  position: relative;
+  width:auto;
+  margin-bottom: 20px;
+  background-color: blue;
+	
+}
+.myitem2{
+  text-align: center;
+  padding-right: 10px;
+  float: right;
+  position: relative;
+  width:auto;
+  margin-bottom: 20px;
+  background-color: green;
+
+
+}
+.myitem1 p{
+
+background-color: gray;
+}
+div {
+  border: 1px solid black;
+  width: 90%;
+  height: auto;
+  font-family: Helvetica;
+  
+}
+
+.second{background-color: gray;
+
+}
+.first{
+  background-color: yellow;
+}
